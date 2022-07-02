@@ -3,11 +3,11 @@
 Программа написана на языке Ruby.
 
 
-Чтобы запустить её, введите в консоли следующую команду:
+Для запуска необходимо иметь установленный ruby в системе и в консоли ввести следующую команду:
 
 ```shell
 git clone https://github.com/APTEMmm/magic_ball.git && \
-cd ~/magic_ball && \
+cd magic_ball && \
 ruby magic_ball.rb
 ```
 
